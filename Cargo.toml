@@ -3,4 +3,6 @@ name = "learn-rust"
 version = "0.1.0"
 edition = "2021"
 
+
 [dependencies]
+is_odd = "1.0"  # Use the latest available version
