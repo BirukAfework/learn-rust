@@ -1,4 +1,4 @@
-# 50 beginner-friendly Rust projects
+# 50  Rust projects
 This is me Biruk i'm trying to learn Rust's core concepts to advance from scratch project one to complex one just clone the repository and try learning.
 Project i'm going to work on.
 🚀 50 Rust Projects to Master Core Concepts 🦀
