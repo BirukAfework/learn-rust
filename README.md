@@ -1,6 +1,6 @@
 # 50  Rust projects
 This is me Biruk i'm trying to learn Rust's core concepts to advance from scratch project one to complex one just clone the repository and try learning.
-Project i'm going to work on.
+Project i'm going to work on. projects which have ✅ are alreadly done and the codes are in directory's 
 🚀 50 Rust Projects to Master Core Concepts 🦀
 | #  | Project Idea                      | Core Rust Concepts Covered                                                   |
 |----|----------------------------------|------------------------------------------------------------------------------|
