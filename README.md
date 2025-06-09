@@ -4,8 +4,8 @@ Project i'm going to work on.
 🚀 50 Rust Projects to Master Core Concepts 🦀
 | #  | Project Idea                      | Core Rust Concepts Covered                                                   |
 |----|----------------------------------|------------------------------------------------------------------------------|
-| 1  | Hello World                      | Cargo, project setup, printing, main function  ✅                              |
-| 2  | Simple Calculator (CLI)         | Variables, user input, match, arithmetic, error handling                     |
+| 1  | Hello World                      | Cargo, project setup, printing, main function  ✅                            |
+| 2  | Simple Calculator (CLI)         | Variables, user input, match, arithmetic, error handling  ✅                  |
 | 3  | Temperature Converter           | Data types, functions, user input/output                                     |
 | 4  | Guessing Game                   | Random number generation, loops, conditionals                                |
 | 5  | To-Do List (CLI)                | Structs, enums, vectors, file I/O, CLI basics                                |
